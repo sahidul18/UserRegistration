@@ -16,4 +16,3 @@ CREATE TABLE IF NOT EXISTS userDb.`users` (
  PRIMARY KEY (`id`)
  );
 
-![](https://github.com/sahidul18/UserRegistration/blob/master/img/calculatorUI.PNG)

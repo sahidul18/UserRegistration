@@ -15,3 +15,5 @@ CREATE TABLE IF NOT EXISTS userDb.`users` (
  `trn_date` datetime NOT NULL,
  PRIMARY KEY (`id`)
  );
+
+![](https://github.com/sahidul18/UserRegistration/blob/master/img/calculatorUI.PNG)

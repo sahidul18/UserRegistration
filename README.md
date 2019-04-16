@@ -17,4 +17,4 @@ CREATE TABLE IF NOT EXISTS userDb.`users` (
  );
 
 <img src="img/calculatorUI.png">
- ![UICal](\img\calculatorUI.png)
+ ![UICal](img/calculatorUI.png)

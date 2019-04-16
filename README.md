@@ -15,6 +15,3 @@ CREATE TABLE IF NOT EXISTS userDb.`users` (
  `trn_date` datetime NOT NULL,
  PRIMARY KEY (`id`)
  );
-
-<img src="img/calculatorUI.png" width="100">
- ![UICal](img/calculatorUI.png)

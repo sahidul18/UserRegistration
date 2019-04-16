@@ -16,4 +16,5 @@ CREATE TABLE IF NOT EXISTS userDb.`users` (
  PRIMARY KEY (`id`)
  );
 
+<img src="img/calculatorUI.png">
  ![UICal](\img\calculatorUI.png)
